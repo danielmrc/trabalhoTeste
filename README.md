@@ -1,2 +1,2 @@
 # trabalhoTeste
-repository for my work in test
+repository for my work test discipline in java

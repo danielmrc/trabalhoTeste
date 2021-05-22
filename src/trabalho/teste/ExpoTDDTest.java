@@ -8,5 +8,8 @@ class ExpoTDDTest {
 
     @Test
     void exp() {
+        ExpoTDD ex = new ExpoTDD();
+
+        assertEquals(8, ex.exp(2,3));
     }
 }
